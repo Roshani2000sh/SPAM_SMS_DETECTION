@@ -1,1 +1,2 @@
 # SPAM_SMS_DETECTION
+The project aims to classify the given SMS is whether Spam or Ham the attributes which are used are the SMS, length and frequency of the word. Naive Bayes Multinomial algorithm is used in the project. The GUI is developed with the help of Flask. The sms.py contains main code for training the model, evaluating the model and testing the model and script.py contains the interface code with index.html and result.html.
